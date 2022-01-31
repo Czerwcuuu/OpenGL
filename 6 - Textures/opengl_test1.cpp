@@ -52,9 +52,7 @@ int main()
     gladLoadGL(); //£adowanie glada
     // -------------------------------------------
 
-
-
-    glViewport(0, 0, 800, 800); //£adowanie frame'ów
+    glViewport(0, 0, 800, 800); //£adowanie obrazu
 
     //SHADERY
     Shader shaderprogram("default.vert", "default.frag");
@@ -92,8 +90,6 @@ int main()
         VAO1.Bind(); //Przypisz VAO ¿eby OpenGL go u¿ywa³
         glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0); //Narysuj trójk¹t u¿ywaj¹c GL_TRIANGLE
         glfwSwapBuffers(window);
-
-
 
         glfwPollEvents(); //Zebranie puli eventów - bez tego nie bêdzie dzia³aæ
     }

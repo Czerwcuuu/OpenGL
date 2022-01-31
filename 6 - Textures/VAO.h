@@ -10,7 +10,7 @@ public:
 	GLuint ID; //ID VAO
 	VAO(); //Konstruktor który generuje ID VAO
 
-	void LinkAttrib(VBO VBO, GLuint layout, GLuint numComponents, GLenum type, GLsizeiptr stride, void* offset); // Pod³¹cza VBO do VAO u¿ywaj¹c wybranego layouta
+	void LinkAttrib(VBO& VBO, GLuint layout, GLuint numComponents, GLenum type, GLsizeiptr stride, void* offset); // Pod³¹cza VBO do VAO u¿ywaj¹c wybranego layouta
 	void Bind(); //Podpina VAO
 	void Unbind(); //Odpina VAO
 	void Delete(); //Usuwa VAO

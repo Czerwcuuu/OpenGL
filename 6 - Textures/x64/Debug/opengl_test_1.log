@@ -1,20 +1,6 @@
-﻿  opengl_test1.cpp
-  Texture.cpp
-C:\Users\Styles\Desktop\OPENGL\opengl_test\opengl_test_1\Texture.cpp(45,26): warning C4244: "argument": konwersja z "GLuint" do "GLfloat", możliwa utrata danych
+﻿  VAO.cpp
+C:\Users\Styles\Desktop\OPENGL\opengl_test\opengl_test_1\VAO.cpp(14,63): warning C4244: "argument": konwersja z "GLsizeiptr" do "GLsizei", możliwa utrata danych
+  opengl_test1.cpp
+  shaderClass.cpp
   Generowanie kodu...
-glfw3.lib(context.obj) : warning LNK4099: nie znaleziono pliku PDB "glfw.pdb" z elementem "glfw3.lib(context.obj)" lub w pozycji "C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\glfw.pdb"; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(init.obj) : warning LNK4099: nie znaleziono pliku PDB "" z elementem "glfw3.lib(init.obj)" lub w pozycji ""; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(input.obj) : warning LNK4099: nie znaleziono pliku PDB "glfw.pdb" z elementem "glfw3.lib(input.obj)" lub w pozycji "C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\glfw.pdb"; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(monitor.obj) : warning LNK4099: nie znaleziono pliku PDB "glfw.pdb" z elementem "glfw3.lib(monitor.obj)" lub w pozycji "C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\glfw.pdb"; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(vulkan.obj) : warning LNK4099: nie znaleziono pliku PDB "" z elementem "glfw3.lib(vulkan.obj)" lub w pozycji ""; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(window.obj) : warning LNK4099: nie znaleziono pliku PDB "glfw.pdb" z elementem "glfw3.lib(window.obj)" lub w pozycji "C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\glfw.pdb"; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(win32_init.obj) : warning LNK4099: nie znaleziono pliku PDB "glfw.pdb" z elementem "glfw3.lib(win32_init.obj)" lub w pozycji "C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\glfw.pdb"; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(win32_joystick.obj) : warning LNK4099: nie znaleziono pliku PDB "" z elementem "glfw3.lib(win32_joystick.obj)" lub w pozycji ""; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(win32_monitor.obj) : warning LNK4099: nie znaleziono pliku PDB "glfw.pdb" z elementem "glfw3.lib(win32_monitor.obj)" lub w pozycji "C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\glfw.pdb"; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(win32_time.obj) : warning LNK4099: nie znaleziono pliku PDB "glfw.pdb" z elementem "glfw3.lib(win32_time.obj)" lub w pozycji "C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\glfw.pdb"; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(win32_thread.obj) : warning LNK4099: nie znaleziono pliku PDB "" z elementem "glfw3.lib(win32_thread.obj)" lub w pozycji ""; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(win32_window.obj) : warning LNK4099: nie znaleziono pliku PDB "glfw.pdb" z elementem "glfw3.lib(win32_window.obj)" lub w pozycji "C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\glfw.pdb"; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(wgl_context.obj) : warning LNK4099: nie znaleziono pliku PDB "glfw.pdb" z elementem "glfw3.lib(wgl_context.obj)" lub w pozycji "C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\glfw.pdb"; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(egl_context.obj) : warning LNK4099: nie znaleziono pliku PDB "glfw.pdb" z elementem "glfw3.lib(egl_context.obj)" lub w pozycji "C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\glfw.pdb"; obiekt zostanie skonsolidowany bez informacji debugowania
-glfw3.lib(osmesa_context.obj) : warning LNK4099: nie znaleziono pliku PDB "glfw.pdb" z elementem "glfw3.lib(osmesa_context.obj)" lub w pozycji "C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\glfw.pdb"; obiekt zostanie skonsolidowany bez informacji debugowania
   opengl_test_1.vcxproj -> C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\opengl_test_1.exe
