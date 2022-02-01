@@ -1,0 +1,5 @@
+﻿  Mesh.cpp
+C:\Users\Styles\Desktop\OPENGL\opengl_test\opengl_test_1\Mesh.cpp(52,68): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+  opengl_test1.cpp
+  Generowanie kodu...
+  opengl_test_1.vcxproj -> C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\opengl_test_1.exe
