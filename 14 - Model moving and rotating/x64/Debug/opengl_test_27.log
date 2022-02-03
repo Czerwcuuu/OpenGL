@@ -1,0 +1,4 @@
+﻿  opengl_test27.cpp
+C:\Users\Styles\Desktop\OPENGL\opengl_test\include\learnopengl\shader_m.h(44,40): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Styles\Desktop\OPENGL\opengl_test\include\learnopengl\mesh.h(84,1): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+  opengl_test_27.vcxproj -> C:\Users\Styles\Desktop\OPENGL\opengl_test\x64\Debug\opengl_test_27.exe
